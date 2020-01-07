@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "202934094831",
+    "firebase_url": "https://swiftly-221319.firebaseio.com",
+    "project_id": "swiftly-221319",
+    "storage_bucket": "swiftly-221319.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202934094831:android:a9451e977d7b23af",
+        "android_client_info": {
+          "package_name": "com.example.user.swiftly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202934094831-dj0af14gsg3212lvl948tg29g88sl70s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.swiftly",
+            "certificate_hash": "4c9044b7313b8ef5d6407886e7a98ea3c9b4949c"
+          }
+        },
+        {
+          "client_id": "202934094831-ck6qqhc2inoe35s888ii2tqtlpaqql3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXF4XWYya4fbXBPZ0ye8Ao9mZB8fz-bWs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202934094831-ck6qqhc2inoe35s888ii2tqtlpaqql3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

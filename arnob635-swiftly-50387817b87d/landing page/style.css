@@ -1,0 +1,35 @@
+
+html, body{
+
+	margin: 0;
+	padding: 0;
+	font-family:'Cabin', sans-serif;
+  	height: 100%;
+  	width: 100%;
+
+}
+
+/* body background */
+
+.intro {
+
+  height: 100%;
+  width: 100%;
+  margin: auto;
+  background: url('new2.png') no-repeat;
+  display: table;
+  top: 0;
+  background-size: cover;
+
+}
+
+.textPos{
+    display: inline-block;
+    margin: -15px;
+    padding: 3px;
+    color: #fff;
+   
+}
+
+
+
